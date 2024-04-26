@@ -4,4 +4,3 @@ label = tkinter.Label(window, text = 'Выберите пункт доставк
 label.pack()
 window.mainloop()
 print('BUTTON')
-print('BUTTON 2')
